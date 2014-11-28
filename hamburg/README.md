@@ -1,7 +1,7 @@
 Vergütungen öffentliche Unternehmen Hamburg
 =============
 
-Eine maschinenlesbare Version des Vergütungsberichts für Hamburg 2002-2012.  
+Eine maschinenlesbare Version des Vergütungsberichts für Hamburg 2000-2012.  
 Bezeichnung: "Vergütungsbericht der Mitglieder von Vorständen und Geschäftsführungen der Hamburger öffentlichen Unternehmen 2000-2012"
 
 Quelle: http://beteiligungsbericht.fb.hamburg.de/PDF/Verguetungsbericht%202000_2012.pdf
